@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>DateButton</name>
+   <tag></tag>
+   <locator>//Window/Window[1]/Pane[1]/Pane[1]/Pane[2]/Pane[1]/Pane[1]/Pane[1]/Pane[2]/Pane[1]/Pane[1]/Pane[1]/Document[1]/Window[1]/Pane[1]/Button[@Name='December 5 2022 Monday']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>
